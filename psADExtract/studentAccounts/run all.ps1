@@ -1,0 +1,7 @@
+﻿Set-Location '\\haserver1\tools\student accounts'
+& '.\1students step 1.ps1'
+& '.\2students createuser.ps1'
+#& '.\3students disablestudents.ps1'
+& '.\4students newgroup.ps1'
+& '.\5students groupmembers.ps1'
+& '.\6students enable.ps1'
